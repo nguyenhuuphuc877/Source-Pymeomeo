@@ -33,15 +33,11 @@ Repo phục vụ mục đích:
 
 Học kỹ thuật obfuscate Python
 
-Nghiên cứu RE/anti-RE
-
 Tham khảo phát triển công cụ bảo vệ mã nguồn
 
 🔧 Cách sử dụng 
 
 python b.py
-
-Tùy bản sẽ có thêm tham số nâng cao.
 
 📝 Lưu ý
 
